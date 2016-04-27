@@ -1,12 +1,12 @@
 
 $.getJSON('oblique.json', function(data) { 
     
-  var randomStrategy = data.promptcard[Math.floor(Math.random()*data.promptcard.length)];
+  var randomPrompt = data.promptcard[Math.floor(Math.random()*data.promptcard.length)];
   console.log(randomStrategy.strategy);
-  $("#oblique_promptcard p").text(randomStrategy.strategy);
+  $("#oblique_promptcard p").text(randomPrompt.prompt);
 
   $.each(data.promptcard, function(data) {
-    $('#fulllist').append('<li class="strategy"><p>' + this["strategy"] + '</p></li>');
+    $('#fulllist').append('<li class="prompt"><p>' + this["strategy"] + '</p></li>');
   });
     
 });
