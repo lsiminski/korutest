@@ -1,637 +1,637 @@
 {
-    "promptcard": [
+    "strategies": [
         {
-            "prompt": "(Organic) machinery."
+            "strategy": "(Organic) machinery."
         },
         {
-            "prompt": "A line has two sides."
+            "strategy": "A line has two sides."
         },
         {
-            "prompt": "A very small object - Its centre."
+            "strategy": "A very small object - Its centre."
         },
         {
-            "prompt": "Abandon desire."
+            "strategy": "Abandon desire."
         },
         {
-            "prompt": "Abandon normal instructions."
+            "strategy": "Abandon normal instructions."
         },
         {
-            "prompt": "Accept advice."
+            "strategy": "Accept advice."
         },
         {
-            "prompt": "Accretion."
+            "strategy": "Accretion."
         },
         {
-            "prompt": "Adding on."
+            "strategy": "Adding on."
         },
         {
-            "prompt": "Allow an easement (an easement is the abandonment of a stricture)."
+            "strategy": "Allow an easement (an easement is the abandonment of a stricture)."
         },
         {
-            "prompt": "Always give yourself credit for having more than personality."
+            "strategy": "Always give yourself credit for having more than personality."
         },
         {
-            "prompt": "Always the first steps."
+            "strategy": "Always the first steps."
         },
         {
-            "prompt": "Animal noises."
+            "strategy": "Animal noises."
         },
         {
-            "prompt": "Are there sections? Consider transitions."
+            "strategy": "Are there sections? Consider transitions."
         },
         {
-            "prompt": "Ask a computer program to repeat your last action."
+            "strategy": "Ask a computer program to repeat your last action."
         },
         {
-            "prompt": "Ask people to work against their better judgement."
+            "strategy": "Ask people to work against their better judgement."
         },
         {
-            "prompt": "Ask your body."
+            "strategy": "Ask your body."
         },
         {
-            "prompt": "Assemble some of the elements in a group and treat the group."
+            "strategy": "Assemble some of the elements in a group and treat the group."
         },
         {
-            "prompt": "Back up a few steps. What else could you have done?"
+            "strategy": "Back up a few steps. What else could you have done?"
         },
         {
-            "prompt": "Balance the consistency principle with the inconsistency principle."
+            "strategy": "Balance the consistency principle with the inconsistency principle."
         },
         {
-            "prompt": "Be dirty."
+            "strategy": "Be dirty."
         },
         {
-            "prompt": "Be extravagant."
+            "strategy": "Be extravagant."
         },
         {
-            "prompt": "Be less critical more often."
+            "strategy": "Be less critical more often."
         },
         {
-            "prompt": "Breathe more deeply."
+            "strategy": "Breathe more deeply."
         },
         {
-            "prompt": "Build bridges."
+            "strategy": "Build bridges."
         },
         {
-            "prompt": "Burn bridges."
+            "strategy": "Burn bridges."
         },
         {
-            "prompt": "Call your mother and ask her what to do."
+            "strategy": "Call your mother and ask her what to do."
         },
         {
-            "prompt": "Cascades."
+            "strategy": "Cascades."
         },
         {
-            "prompt": "Change ambiguities to specifics."
+            "strategy": "Change ambiguities to specifics."
         },
         {
-            "prompt": "Change specifics to ambiguities."
+            "strategy": "Change specifics to ambiguities."
         },
         {
-            "prompt": "Change instrument roles."
+            "strategy": "Change instrument roles."
         },
         {
-            "prompt": "Change nothing and continue with immaculate consistency."
+            "strategy": "Change nothing and continue with immaculate consistency."
         },
         {
-            "prompt": "Children’s voices speaking."
+            "strategy": "Children’s voices speaking."
         },
         {
-            "prompt": "Children’s voices singing."
+            "strategy": "Children’s voices singing."
         },
         {
-            "prompt": "Cluster analysis."
+            "strategy": "Cluster analysis."
         },
         {
-            "prompt": "Consider different fading systems."
+            "strategy": "Consider different fading systems."
         },
         {
-            "prompt": "Consider transitions."
+            "strategy": "Consider transitions."
         },
         {
-            "prompt": "Consult other promising sources."
+            "strategy": "Consult other promising sources."
         },
         {
-            "prompt": "Consult other unpromising sources."
+            "strategy": "Consult other unpromising sources."
         },
         {
-            "prompt": "Convert a melodic element into a rhythmic element."
+            "strategy": "Convert a melodic element into a rhythmic element."
         },
         {
-            "prompt": "Courage!"
+            "strategy": "Courage!"
         },
         {
-            "prompt": "Cut a vital connection."
+            "strategy": "Cut a vital connection."
         },
         {
-            "prompt": "Cut a virtual connection."
+            "strategy": "Cut a virtual connection."
         },
         {
-            "prompt": "Decorate, decorate."
+            "strategy": "Decorate, decorate."
         },
         {
-            "prompt": "Define an area as “safe” and use it as an anchor."
+            "strategy": "Define an area as “safe” and use it as an anchor."
         },
         {
-            "prompt": "Describe the landscape in which this belongs."
+            "strategy": "Describe the landscape in which this belongs."
         },
         {
-            "prompt": "Destroy nothing."
+            "strategy": "Destroy nothing."
         },
         {
-            "prompt": "Destroy the most important thing."
+            "strategy": "Destroy the most important thing."
         },
         {
-            "prompt": "Discard an axiom."
+            "strategy": "Discard an axiom."
         },
         {
-            "prompt": "Disciplined self-indulgence."
+            "strategy": "Disciplined self-indulgence."
         },
         {
-            "prompt": "Disconnect from desire."
+            "strategy": "Disconnect from desire."
         },
         {
-            "prompt": "Discover the recipes you are using and abandon them."
+            "strategy": "Discover the recipes you are using and abandon them."
         },
         {
-            "prompt": "Discover your formulas and abandon them."
+            "strategy": "Discover your formulas and abandon them."
         },
         {
-            "prompt": "Display your talent."
+            "strategy": "Display your talent."
         },
         {
-            "prompt": "Distorting time."
+            "strategy": "Distorting time."
         },
         {
-            "prompt": "Do nothing for as long as possible."
+            "strategy": "Do nothing for as long as possible."
         },
         {
-            "prompt": "Do something boring."
+            "strategy": "Do something boring."
         },
         {
-            "prompt": "Do something sudden, destructive and unpredictable."
+            "strategy": "Do something sudden, destructive and unpredictable."
         },
         {
-            "prompt": "Do the last thing first."
+            "strategy": "Do the last thing first."
         },
         {
-            "prompt": "Do the washing up."
+            "strategy": "Do the washing up."
         },
         {
-            "prompt": "Do the words need changing?"
+            "strategy": "Do the words need changing?"
         },
         {
-            "prompt": "Do we need holes?"
+            "strategy": "Do we need holes?"
         },
         {
-            "prompt": "Don’t avoid what is easy."
+            "strategy": "Don’t avoid what is easy."
         },
         {
-            "prompt": "Don’t be afraid of things because they’re easy to do."
+            "strategy": "Don’t be afraid of things because they’re easy to do."
         },
         {
-            "prompt": "Don’t be frightened of cliches."
+            "strategy": "Don’t be frightened of cliches."
         },
         {
-            "prompt": "Don’t be frightened to display your talents."
+            "strategy": "Don’t be frightened to display your talents."
         },
         {
-            "prompt": "Don’t break the silence."
+            "strategy": "Don’t break the silence."
         },
         {
-            "prompt": "Don’t stress one thing more than another."
+            "strategy": "Don’t stress one thing more than another."
         },
         {
-            "prompt": "Emphasize differences."
+            "strategy": "Emphasize differences."
         },
         {
-            "prompt": "Emphasize repetitions."
+            "strategy": "Emphasize repetitions."
         },
         {
-            "prompt": "Emphasize the flaws."
+            "strategy": "Emphasize the flaws."
         },
         {
-            "prompt": "Faced with a choice, do both!"
+            "strategy": "Faced with a choice, do both!"
         },
         {
-            "prompt": "Feed the recording back out of the medium."
+            "strategy": "Feed the recording back out of the medium."
         },
         {
-            "prompt": "Feedback recordings into an acoustic situation."
+            "strategy": "Feedback recordings into an acoustic situation."
         },
         {
-            "prompt": "Fill every beat with something."
+            "strategy": "Fill every beat with something."
         },
         {
-            "prompt": "First work alone, then work in unusual pairs."
+            "strategy": "First work alone, then work in unusual pairs."
         },
         {
-            "prompt": "From nothing to more than nothing."
+            "strategy": "From nothing to more than nothing."
         },
         {
-            "prompt": "Get your neck massaged."
+            "strategy": "Get your neck massaged."
         },
         {
-            "prompt": "Ghost echoes."
+            "strategy": "Ghost echoes."
         },
         {
-            "prompt": "Give the game away."
+            "strategy": "Give the game away."
         },
         {
-            "prompt": "Give way to your worst impulse."
+            "strategy": "Give way to your worst impulse."
         },
         {
-            "prompt": "Go outside. Shut the door."
+            "strategy": "Go outside. Shut the door."
         },
         {
-            "prompt": "Go slowly all the way round the outside."
+            "strategy": "Go slowly all the way round the outside."
         },
         {
-            "prompt": "Go to an extreme, move back to a more comfortable place."
+            "strategy": "Go to an extreme, move back to a more comfortable place."
         },
         {
-            "prompt": "How would someone else do it?"
+            "strategy": "How would someone else do it?"
         },
         {
-            "prompt": "How would you explain this to your parents?"
+            "strategy": "How would you explain this to your parents?"
         },
         {
-            "prompt": "How would you have done it?"
+            "strategy": "How would you have done it?"
         },
         {
-            "prompt": "Humanize something that is free of error."
+            "strategy": "Humanize something that is free of error."
         },
         {
-            "prompt": "Idiot glee."
+            "strategy": "Idiot glee."
         },
         {
-            "prompt": "Imagine the music as a moving chain or caterpillar."
+            "strategy": "Imagine the music as a moving chain or caterpillar."
         },
         {
-            "prompt": "Imagine the music as a series of disconnected events."
+            "strategy": "Imagine the music as a series of disconnected events."
         },
         {
-            "prompt": "In total darkness."
+            "strategy": "In total darkness."
         },
         {
-            "prompt": "In a very large room, very quietly."
+            "strategy": "In a very large room, very quietly."
         },
         {
-            "prompt": "Infinitesimal gradations."
+            "strategy": "Infinitesimal gradations."
         },
         {
-            "prompt": "Instead of changing the thing, change the world around it."
+            "strategy": "Instead of changing the thing, change the world around it."
         },
         {
-            "prompt": "Credibility of intentions."
+            "strategy": "Credibility of intentions."
         },
         {
-            "prompt": "Nobility of intentions."
+            "strategy": "Nobility of intentions."
         },
         {
-            "prompt": "Humility of intentions."
+            "strategy": "Humility of intentions."
         },
         {
-            "prompt": "Is it finished?"
+            "strategy": "Is it finished?"
         },
         {
-            "prompt": "Is something missing?"
+            "strategy": "Is something missing?"
         },
         {
-            "prompt": "Is the intonation correct?"
+            "strategy": "Is the intonation correct?"
         },
         {
-            "prompt": "Is the style right?"
+            "strategy": "Is the style right?"
         },
         {
-            "prompt": "Is the tuning appropriate?"
+            "strategy": "Is the tuning appropriate?"
         },
         {
-            "prompt": "It is quite possible (after all)."
+            "strategy": "It is quite possible (after all)."
         },
         {
-            "prompt": "It is simply a matter or work."
+            "strategy": "It is simply a matter or work."
         },
         {
-            "prompt": "Just carry on."
+            "strategy": "Just carry on."
         },
         {
-            "prompt": "Left channel, right channel, centre channel."
+            "strategy": "Left channel, right channel, centre channel."
         },
         {
-            "prompt": "List the qualities it has. List those you’d like."
+            "strategy": "List the qualities it has. List those you’d like."
         },
         {
-            "prompt": "Listen in total darkness."
+            "strategy": "Listen in total darkness."
         },
         {
-            "prompt": "Listen in a very large room, very quietly."
+            "strategy": "Listen in a very large room, very quietly."
         },
         {
-            "prompt": "Listen to the quiet voice"
+            "strategy": "Listen to the quiet voice"
         },
         {
-            "prompt": "Look at a very small object, look at its centre."
+            "strategy": "Look at a very small object, look at its centre."
         },
         {
-            "prompt": "Look at the order in which you do things."
+            "strategy": "Look at the order in which you do things."
         },
         {
-            "prompt": "Look closely at the most embarrassing details and amplify."
+            "strategy": "Look closely at the most embarrassing details and amplify."
         },
         {
-            "prompt": "Lost in useless territory."
+            "strategy": "Lost in useless territory."
         },
         {
-            "prompt": "Lowest common denominator check: single beat; single note; single riff."
+            "strategy": "Lowest common denominator check: single beat; single note; single riff."
         },
         {
-            "prompt": "Magnify the most difficult details."
+            "strategy": "Magnify the most difficult details."
         },
         {
-            "prompt": "Make a blank valuable by putting it in an excquisite frame."
+            "strategy": "Make a blank valuable by putting it in an excquisite frame."
         },
         {
-            "prompt": "Make a sudden, destructive unpredictable action. Incorporate."
+            "strategy": "Make a sudden, destructive unpredictable action. Incorporate."
         },
         {
-            "prompt": "Make an exhaustive list of everything you might do and do the last thing on the list."
+            "strategy": "Make an exhaustive list of everything you might do and do the last thing on the list."
         },
         {
-            "prompt": "Make it more sensual."
+            "strategy": "Make it more sensual."
         },
         {
-            "prompt": "Make it more banal."
+            "strategy": "Make it more banal."
         },
         {
-            "prompt": "Make what’s perfect more human."
+            "strategy": "Make what’s perfect more human."
         },
         {
-            "prompt": "Mechanize something idiosyncratic."
+            "strategy": "Mechanize something idiosyncratic."
         },
         {
-            "prompt": "Move towards the impossible."
+            "strategy": "Move towards the impossible."
         },
         {
-            "prompt": "Move towards the unimportant."
+            "strategy": "Move towards the unimportant."
         },
         {
-            "prompt": "Mute and continue."
+            "strategy": "Mute and continue."
         },
         {
-            "prompt": "Not building a wall but making a brick."
+            "strategy": "Not building a wall but making a brick."
         },
         {
-            "prompt": "Once the search is in progress, something will be found."
+            "strategy": "Once the search is in progress, something will be found."
         },
         {
-            "prompt": "Only a part, not the whole."
+            "strategy": "Only a part, not the whole."
         },
         {
-            "prompt": "Only one element of each kind."
+            "strategy": "Only one element of each kind."
         },
         {
-            "prompt": "Overtly resist change."
+            "strategy": "Overtly resist change."
         },
         {
-            "prompt": "Pae White’s non-blank graphic metacard."
+            "strategy": "Pae White’s non-blank graphic metacard."
         },
         {
-            "prompt": "Pay attention to distractions."
+            "strategy": "Pay attention to distractions."
         },
         {
-            "prompt": "Picture of a man spotlighted."
+            "strategy": "Picture of a man spotlighted."
         },
         {
-            "prompt": "Put in earplugs."
+            "strategy": "Put in earplugs."
         },
         {
-            "prompt": "Question the heroic approach."
+            "strategy": "Question the heroic approach."
         },
         {
-            "prompt": "Rearrange."
+            "strategy": "Rearrange."
         },
         {
-            "prompt": "Remember those quiet evenings."
+            "strategy": "Remember those quiet evenings."
         },
         {
-            "prompt": "Remove a restriction."
+            "strategy": "Remove a restriction."
         },
         {
-            "prompt": "Remove ambiguities and convert to specifics."
+            "strategy": "Remove ambiguities and convert to specifics."
         },
         {
-            "prompt": "Remove specifics and convert to ambiguities."
+            "strategy": "Remove specifics and convert to ambiguities."
         },
         {
-            "prompt": "Remove the middle, extend the edges."
+            "strategy": "Remove the middle, extend the edges."
         },
         {
-            "prompt": "Repetition is a form of change."
+            "strategy": "Repetition is a form of change."
         },
         {
-            "prompt": "Retrace your steps."
+            "strategy": "Retrace your steps."
         },
         {
-            "prompt": "Revaluation (a warm feeling)."
+            "strategy": "Revaluation (a warm feeling)."
         },
         {
-            "prompt": "Reverse."
+            "strategy": "Reverse."
         },
         {
-            "prompt": "Short circuit (example; a man eating peas with the idea that they will improve his virility shovels them straight into his lap)."
+            "strategy": "Short circuit (example; a man eating peas with the idea that they will improve his virility shovels them straight into his lap)."
         },
         {
-            "prompt": "Shut the door and listen from outside."
+            "strategy": "Shut the door and listen from outside."
         },
         {
-            "prompt": "Simple subtraction."
+            "strategy": "Simple subtraction."
         },
         {
-            "prompt": "Simply a matter of work."
+            "strategy": "Simply a matter of work."
         },
         {
-            "prompt": "Slow preparation, fast execution."
+            "strategy": "Slow preparation, fast execution."
         },
         {
-            "prompt": "Spectrum analysis."
+            "strategy": "Spectrum analysis."
         },
         {
-            "prompt": "State the problem in words as simply as possible."
+            "strategy": "State the problem in words as simply as possible."
         },
         {
-            "prompt": "Steal a solution."
+            "strategy": "Steal a solution."
         },
         {
-            "prompt": "Take a break."
+            "strategy": "Take a break."
         },
         {
-            "prompt": "Take away as much mystery as possible. What is left?"
+            "strategy": "Take away as much mystery as possible. What is left?"
         },
         {
-            "prompt": "Take away the elements in order of apparent non-importance."
+            "strategy": "Take away the elements in order of apparent non-importance."
         },
         {
-            "prompt": "Take away the important parts."
+            "strategy": "Take away the important parts."
         },
         {
-            "prompt": "Tape your mouth."
+            "strategy": "Tape your mouth."
         },
         {
-            "prompt": "The inconsistency principle."
+            "strategy": "The inconsistency principle."
         },
         {
-            "prompt": "The most important thing is the thing most easily forgotten."
+            "strategy": "The most important thing is the thing most easily forgotten."
         },
         {
-            "prompt": "The tape is now the music."
+            "strategy": "The tape is now the music."
         },
         {
-            "prompt": "Think inside the work."
+            "strategy": "Think inside the work."
         },
         {
-            "prompt": "Think outside the work."
+            "strategy": "Think outside the work."
         },
         {
-            "prompt": "Think of the radio."
+            "strategy": "Think of the radio."
         },
         {
-            "prompt": "Tidy up."
+            "strategy": "Tidy up."
         },
         {
-            "prompt": "Towards the insignificant."
+            "strategy": "Towards the insignificant."
         },
         {
-            "prompt": "Trust in the you of now."
+            "strategy": "Trust in the you of now."
         },
         {
-            "prompt": "Try faking it."
+            "strategy": "Try faking it."
         },
         {
-            "prompt": "Turn it upside down."
+            "strategy": "Turn it upside down."
         },
         {
-            "prompt": "Twist the spine."
+            "strategy": "Twist the spine."
         },
         {
-            "prompt": "Use “unqualified” people."
+            "strategy": "Use “unqualified” people."
         },
         {
-            "prompt": "Use an old idea."
+            "strategy": "Use an old idea."
         },
         {
-            "prompt": "Use an unacceptable color."
+            "strategy": "Use an unacceptable color."
         },
         {
-            "prompt": "Use cliches."
+            "strategy": "Use cliches."
         },
         {
-            "prompt": "Use fewer notes."
+            "strategy": "Use fewer notes."
         },
         {
-            "prompt": "Use filters."
+            "strategy": "Use filters."
         },
         {
-            "prompt": "Use something nearby as a model."
+            "strategy": "Use something nearby as a model."
         },
         {
-            "prompt": "Use your own ideas."
+            "strategy": "Use your own ideas."
         },
         {
-            "prompt": "Voice your suspicions."
+            "strategy": "Voice your suspicions."
         },
         {
-            "prompt": "Water."
+            "strategy": "Water."
         },
         {
-            "prompt": "Fire."
+            "strategy": "Fire."
         },
         {
-            "prompt": "Earth."
+            "strategy": "Earth."
         },
         {
-            "prompt": "Wind."
+            "strategy": "Wind."
         },
         {
-            "prompt": "Heart."
+            "strategy": "Heart."
         },
         {
-            "prompt": "What are the sections sections of? (Imagine a caterpillar moving)."
+            "strategy": "What are the sections sections of? (Imagine a caterpillar moving)."
         },
         {
-            "prompt": "What context would look right?"
+            "strategy": "What context would look right?"
         },
         {
-            "prompt": "What do you do? Now, what do you do best?"
+            "strategy": "What do you do? Now, what do you do best?"
         },
         {
-            "prompt": "What else is this like?"
+            "strategy": "What else is this like?"
         },
         {
-            "prompt": "What is the reality of the situation?"
+            "strategy": "What is the reality of the situation?"
         },
         {
-            "prompt": "What is the simplest solution?"
+            "strategy": "What is the simplest solution?"
         },
         {
-            "prompt": "What mistakes did you make last time?"
+            "strategy": "What mistakes did you make last time?"
         },
         {
-            "prompt": "What most recently impressed you? How is it similar? What can you learn from it? What could you take from it?"
+            "strategy": "What most recently impressed you? How is it similar? What can you learn from it? What could you take from it?"
         },
         {
-            "prompt": "What to increase? What to reduce? What to maintain?"
+            "strategy": "What to increase? What to reduce? What to maintain?"
         },
         {
-            "prompt": "What were the branch points in the evolution of this entity?"
+            "strategy": "What were the branch points in the evolution of this entity?"
         },
         {
-            "prompt": "What were you really thinking about just now? Incorporate."
+            "strategy": "What were you really thinking about just now? Incorporate."
         },
         {
-            "prompt": "What would make this really successful?"
+            "strategy": "What would make this really successful?"
         },
         {
-            "prompt": "What would your closest friend do?"
+            "strategy": "What would your closest friend do?"
         },
         {
-            "prompt": "What wouldn’t you do? Do that."
+            "strategy": "What wouldn’t you do? Do that."
         },
         {
-            "prompt": "When is it for?"
+            "strategy": "When is it for?"
         },
         {
-            "prompt": "When is it for? Who is it for?"
+            "strategy": "When is it for? Who is it for?"
         },
         {
-            "prompt": "Who is it for?"
+            "strategy": "Who is it for?"
         },
         {
-            "prompt": "Where is the edge?"
+            "strategy": "Where is the edge?"
         },
         {
-            "prompt": "Which parts can be grouped?"
+            "strategy": "Which parts can be grouped?"
         },
         {
-            "prompt": "Who would make this really successful?"
+            "strategy": "Who would make this really successful?"
         },
         {
-            "prompt": "Work at a different speed."
+            "strategy": "Work at a different speed."
         },
         {
-            "prompt": "Would anyone want it?"
+            "strategy": "Would anyone want it?"
         },
         {
-            "prompt": "You are an engineer."
+            "strategy": "You are an engineer."
         },
         {
-            "prompt": "You can only make one dot at a time."
+            "strategy": "You can only make one dot at a time."
         },
         {
-            "prompt": "You don’t have to be ashamed of using your own ideas."
+            "strategy": "You don’t have to be ashamed of using your own ideas."
         },
         {
-            "prompt": "Your mistake was a hidden intention."
+            "strategy": "Your mistake was a hidden intention."
         }
     ]
 }
