@@ -1,0 +1,182 @@
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,300,600");
+
+/* Typography styles and colors
+----------------------------------------------------------------------------------------*/
+body {
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  color: rgba(47,41,38,1);
+}
+
+h1 {
+  font-size: 1.333333rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 0;
+  padding-left: .25rem;
+}
+
+.listing h1 {
+  margin-bottom: 0 !important;
+  padding-left: 1rem;
+}
+
+#oblique_strategies p {
+  font-size: 4em;
+  font-weight: bold;
+  color: rgba(197,192,101,1);
+  line-height: 1;
+}
+
+footer  p {
+  font-size: 90%;
+}
+
+/* links
+----------------------------------------------------------------------------------------*/
+a {
+  color: rgba(47,41,38,1);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(236,64,121,1);
+  padding: 1px 2px 1px 2px;
+  transition: all 500ms;
+  -webkit-transition: all 500ms;
+  -moz-transition: all 500ms;
+  -o-transition: all 500ms;
+  -ms-transition: all 500ms;
+}
+
+a:hover, .navbar a.brand:hover, ul.nav a:hover {
+  background: rgba(236,64,121,1);
+  color: white;
+  text-decoration: none;
+}
+
+/* Layout, alignment, etc.
+----------------------------------------------------------------------------------------*/
+* { box-sizing: border-box; }
+
+header {
+  margin-bottom: 2rem;
+  padding-bottom: .75rem;
+  border-bottom: .333333rem solid rgba(236,64,121,1);
+  position: relative;
+}
+
+.listing header { padding-top: 2rem; margin-bottom: 0; }
+
+footer { margin-top: 2rem; margin-bottom: 2rem; }
+
+/* object colors & backgrounds
+----------------------------------------------------------------------------------------*/
+html,
+body {
+  background: rgba(132,132,120,1);
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+  margin:0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+.cool-border {
+  pointer-events: none;
+  z-index: 500;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.cool-border.thick {
+  border: 2rem solid rgba(96,103,103,1);
+}
+
+.cool-border.thin {
+  border: 2px solid rgba(47,41,38,1);
+  top: 2rem;
+  right: 2rem;
+  bottom: 2rem;
+  left: 2rem;
+}
+
+body.random,
+.container {
+  min-height: 100vh;
+  height: 100vh;
+}
+
+#oblique_strategies {
+  cursor: pointer;
+  margin-bottom: 9rem;
+}
+
+p.altview {
+  position: absolute;
+  bottom: .75rem;
+  right: .25rem;
+}
+
+.listing p.altview {
+  right: 1rem;
+}
+
+article { margin-top: 1rem; margin-bottom: 2rem;}
+
+article .lead {
+  font-weight: 400;
+  line-height: 1.444;
+  opacity: .8;
+}
+
+.outer {
+  width: 100%;
+  height: 100%;
+}
+
+/* The ghost, nudged to maintain perfect centering */
+.outer:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  margin-right: -1%; /* Adjusts for spacing */
+}
+
+/* The element to be centered, can
+   also be of any width and height */
+.inner {
+  display: inline-block;
+  vertical-align: middle;
+  width: 99%;
+  margin-left: .5%;
+}
+
+/**** listing styles ****/
+
+#fulllist {
+  border-top: 1px solid rgba(96,103,103,1);
+  margin: 1rem -1rem;
+  padding: 0;
+  font-size: 1.5em;
+}
+
+#fulllist li {
+  list-style-position:inside !important;
+  list-style:decimal;
+  border-bottom: 1px solid rgba(96,103,103,1);
+  padding: 0 1.333333rem;
+}
+
+#fulllist li p {
+  margin: 0;
+  padding: .6em 0;
+}
+
+#fulllist li:hover {
+  background: rgba(157,178,176,.25);
+}
