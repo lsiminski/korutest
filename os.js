@@ -5,9 +5,11 @@ $.getJSON('oblique.json', function(data) {
   console.log(randomStrategy.strategy);
   $("#oblique_strategies p").text(randomStrategy.strategy);
 
-  $.each(data.strategies, function(data) {
+  /*
+$.each(data.strategies, function(data) {
     $('#fulllist').append('<li class="strategy"><p>' + this["strategy"] + '</p></li>');
   });
+*/
     
 });
 
