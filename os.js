@@ -6,7 +6,7 @@ $.getJSON('oblique.json', function(data) {
   $("#oblique_promptcard p").text(randomPrompt.prompt);
 
   $.each(data.promptcard, function(data) {
-    $('#fulllist').append('<li class="prompt"><p>' + this["strategy"] + '</p></li>');
+    $('#fulllist').append('<li class="promptcard"><p>' + this["strategy"] + '</p></li>');
   });
     
 });
