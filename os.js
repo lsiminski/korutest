@@ -1,5 +1,5 @@
 
-$.getJSON('oblique.json', function(data) { 
+$.getJSON('koru.json', function(data) { 
     
   var randomCard = data[Math.floor(Math.random()*data.length)];
   console.log(randomCard);
