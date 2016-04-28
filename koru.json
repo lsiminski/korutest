@@ -74,7 +74,7 @@
         },
         {
             "number": "9",
-            "background": "##005AAA",
+            "background": "#005AAA",
             "card": "You’ve cried in public.",
             "category": "Certo",
             "icons": "img/icons2.png",
