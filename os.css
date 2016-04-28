@@ -21,7 +21,7 @@ h1 {
   padding-left: 1rem;
 }
 
-#oblique_strategies p {
+#oblique_promptcards p {
   font-size: 4em;
   font-weight: bold;
   color: rgba(197,192,101,1);
@@ -110,7 +110,7 @@ body.random,
   height: 100vh;
 }
 
-#oblique_strategies {
+#oblique_promptcards {
   cursor: pointer;
   margin-bottom: 9rem;
 }
