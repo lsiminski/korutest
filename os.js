@@ -1,28 +1,27 @@
 
 $.getJSON('oblique.json', function(data) { 
     
-  var randomStrategy = data.promptcards[Math.floor(Math.random()*data.promptcards.length)];
-  console.log(randomStrategy.promptcards);
-  $("#oblique_promptcards p").text(randomStrategy);
-
-
-$.each(data, function(data) {
-		  $("#oblique_prompt p").text(this.prompt);
-		  $("#oblique_category").text(this.category);
-		  $("#oblique_icons").text(this.Image);
-		  $("body.random").css("background-image","url(" + this.image + ")");
-/* 	  } else { */
-	  });
-  });
+  var randomCard = data[Math.floor(Math.random()*data.length)];
+  console.log(randomCard);
+  /* $("#oblique_strategies p").text(randomStrategy.strategy); */
 
   /*
-$.each(data.promptcards, function(data) {
-    $('#fulllist').append('<li class="prompt"><p>' + this["prompt"] + '</p></li>');
+$.each(data.strategies, function(data) {
+    $('#fulllist').append('<li class="strategy"><p>' + this["strategy"] + '</p></li>');
   });
 */
+
+$.each(data, function(data) {
+		  $("#list_prompt p").text(this.prompt);
+		  $("#list_icons p").text(this.img);
+		  $("#list_category p").text(this.category);
+		  $("body.random").css("background-image","url(" + this.image + ")");
+	  } else {
+	  }
+  });
     
 });
 
-$('#oblique_prompt').click(function() {
+$('#oblique_cards').click(function() {
   document.location.reload(true);
 });
