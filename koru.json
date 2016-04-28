@@ -30,14 +30,14 @@
         },
         {
             "number": "5",
-            "background": "#FFCD2F",
+            "background": "pink",
             "card": "How many siblings do you have?",
             "category": "Anima",
             "icons": "img/icons1.png"
         },
         {
             "number": "6",
-            "background": "#FFCD2F",
+            "background": "green",
             "card": "How many kids do or did you want?",
             "category": "Anima",
             "icons": "img/icons1.png"
@@ -65,7 +65,7 @@
         },
         {
             "number": "10",
-            "background": "#FFCD2F",
+            "background": "#pink",
             "card": "Do you get uncomfortable when people talk about religion or politics?",
             "category": "Anima",
             "icons": "img/icons1.png"
@@ -79,7 +79,7 @@
         },
         {
             "number": "12",
-            "background": "#FFCD2F",
+            "background": "#blue",
             "card": "Do you plan ahead or wait until the last minute to get things done?",
             "category": "Anima",
             "icons": "img/icons1.png"
@@ -93,14 +93,14 @@
         },
         {
             "number": "14",
-            "background": "#FFCD2F",
+            "background": "#cyan",
             "card": "If you could treat yourself right now, what would you do?",
             "category": "Anima",
             "icons": "img/icons1.png"
         },
         {
             "number": "15",
-            "background": "#FFCD2F",
+            "background": "#red",
             "card": "What’s something that you should throw away but can’t?",
             "category": "Anima",
             "icons": "img/icons1.png"
