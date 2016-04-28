@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>An Oblique Strategy:</title>
+    <title>KORU</title>
 
     <!-- Bootstrap -->
     <!-- Latest compiled and minified CSS -->
@@ -24,15 +24,22 @@
     <div class="container">
 
         <div class="category">
-          <p>Category?</p>
+          <p> </p>
         </div>
 
         <div class="prompt">
-          <p>Prompt?</p>
+          <p> </p>
         </div>
 
         <div class="icons">
-          <p>This icons thing might need some figuring out</p>
+          <img src="#" />
+        </div>
+
+        <div class="certoaction">
+          <p> </p>
+        </div>
+
+	      <div class="othericons">
           <img src="#" />
         </div>
 
@@ -57,7 +64,8 @@
         $(".category p").text(randomCard.category);
         $(".prompt p").text(randomCard.card);
         $(".icons img").attr("src", randomCard.icons);
-
+        $(".certoaction p").text(randomCard.certoaction);
+        $(".othericons img").attr("src", randomCard.othericons);
       });
 
     </script>
