@@ -2,7 +2,7 @@
     "promptcards": [
         {
             "number": "1",
-            "background": "FFCD2F",
+            "background": "#FFCD2F",
             "card": "Do you squeeze the end or middle of the toothpaste tube to get it out?",
             "category": "Anima",
             "icons": "img/icons1.png",
@@ -11,7 +11,7 @@
         },
         {
             "number": "2",
-            "background": "FFCD2F",
+            "background": "#FFCD2F",
             "card": "Where is the furthest place you’ve traveled?",
             "category": "Anima",
             "icons": "img/icons1.png",
