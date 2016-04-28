@@ -11,10 +11,7 @@ $.each(data, function(data) {
 		  $("#oblique_icons p").html("<img src='" + this.url + "'>");
 		  $("body.random").css("background-color");
   });
-    
-   /*  $("#oblique_icons p").text(this.Image); */
-  /*  $("#list_name p").html("<a href='" + this.url + "' target=blank>" + this.name + "</a>"); */
-    
+
 });
 
 $('#oblique_cards').click(function() {
