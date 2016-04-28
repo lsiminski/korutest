@@ -1,42 +1,27 @@
 [
         {
             "prompt": "(Organic) machinery.",
-            "category": "Anima"
+            "category": "Anima",
+            "icons": "http://i66.tinypic.com/2njzqtf.png"
         },
         {
             "prompt": "A line has two sides.",
-            "category": "Anima"
+            "category": "Certo",
+            "icons": "http://i66.tinypic.com/2njzqtf.png"
         },
         {
             "prompt": "A very small object - Its centre.",
-            "category": "Anima"
+            "category": "Empathia",
+            "icons": "http://i66.tinypic.com/2njzqtf.png"
         },
         {
             "prompt": "Abandon desire.",
-            "category": "Anima"
+            "category": "Sensum",
+            "icons": "http://i66.tinypic.com/2njzqtf.png"
         },
         {
             "prompt": "Abandon normal instructions.",
-            "category": "Anima"
-        },
-        {
-            "prompt": "Accept advice.",
-            "category": "Anima"
-        },
-        {
-            "prompt": "Accretion.",
-            "category": "Anima"
-        },
-        {
-            "prompt": "Adding on.",
-            "category": "Anima"
-        },
-        {
-            "prompt": "Allow an easement (an easement is the abandonment of a stricture).",
-            "category": "Anima"
-        },
-        {
-            "prompt": "Your mistake was a hidden intention.",
-            "category": "Anima"
+            "category": "Nexus",
+            "icons": "http://i66.tinypic.com/2njzqtf.png"
         }
     ]
