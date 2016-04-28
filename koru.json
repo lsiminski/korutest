@@ -12,21 +12,21 @@
             "background": "red",
             "card": "Do you fold your clothes right out of the dryer?",
             "category": "Bop",
-            "icons": "img/icons1.png"
+            "icons": "sample2.jpg"
         },
         {
             "number": "3",
             "background": "#FFCD2F",
             "card": "Do you split your oreos in half before eating them?",
             "category": "Anima",
-            "icons": "img/icons1.png"
+            "icons": "sample3.gif"
         },
         {
             "number": "4",
             "background": "purple",
             "card": "Where is the furthest place you’ve traveled?",
             "category": "Anima",
-            "icons": "img/icons1.png"
+            "icons": "sample.jpg"
         },
         {
             "number": "5",
