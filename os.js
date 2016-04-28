@@ -8,10 +8,10 @@ $.getJSON('oblique.json', function(data) {
 
 $.each(data, function(data) {
 		  $("#oblique_prompt p").text(this.prompt);
-		  $("#oblique_category p").text(this.category);
-		  $("#oblique_icons p").text(this.Image);
+		  $("#oblique_category").text(this.category);
+		  $("#oblique_icons").text(this.Image);
 		  $("body.random").css("background-image","url(" + this.image + ")");
-	  } else {
+/* 	  } else { */
 	  }
   });
 
