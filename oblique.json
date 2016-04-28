@@ -2,26 +2,26 @@
         {
             "prompt": "(Organic) machinery.",
             "category": "Anima",
-            "icons": "http://i66.tinypic.com/2njzqtf.png"
+            "icons": "img/icons1.png"
         },
         {
             "prompt": "A line has two sides.",
             "category": "Certo",
-            "icons": "http://i66.tinypic.com/2njzqtf.png"
+            "icons": "img/icons2.png"
         },
         {
             "prompt": "A very small object - Its centre.",
             "category": "Empathia",
-            "icons": "http://i66.tinypic.com/2njzqtf.png"
+            "icons": "img/icons3.png"
         },
         {
             "prompt": "Abandon desire.",
             "category": "Sensum",
-            "icons": "http://i66.tinypic.com/2njzqtf.png"
+            "icons": "img/icons4.png"
         },
         {
             "prompt": "Abandon normal instructions.",
             "category": "Nexus",
-            "icons": "http://i66.tinypic.com/2njzqtf.png"
+            "icons": "img/icons5.png"
         }
     ]
