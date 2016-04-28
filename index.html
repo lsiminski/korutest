@@ -19,42 +19,48 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body class="random">
+
+  <body>
     <div class="container">
 
-      <div class="outer">
-        <div class="inner">
-        <div id='oblique_cards'>
-        
-            <div class="category">
-    			<div id='oblique_category'>
-					<p> </p>
-				</div>
-			</div>
-
-			<div class="prompt">
-				<div id='oblique_prompt'>
-					<p> </p>
-				</div>
-			</div>
-			
-			<div class="icons">
-				<div id='oblique_icons'>
-					<p> </p>
-				</div>
-			</div>
-			
-       </div>
-
+        <div class="category">
+          <p>Category?</p>
         </div>
-      </div>
+
+        <div class="prompt">
+          <p>Prompt?</p>
+        </div>
+
+        <div class="icons">
+          <p>This icons thing might need some figuring out</p>
+          <img src="#" />
+        </div>
 
     </div>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-    <script src="os.js"></script>
+
+    <script>
+
+      $.getJSON('koru.json', function(data) {
+
+        /** you have to tell it which array to look into **/
+        var cardArray = data.promptcards;
+
+        /** then you can tell it to find a random object in that array **/
+        var randomCard = cardArray[Math.floor(Math.random()*cardArray.length)];
+        console.log(randomCard);
+
+        /** then you can tell it to do things with the line items within the object **/
+        $("body").css("background-color", randomCard.background);
+        $(".category p").text(randomCard.category);
+        $(".prompt p").text(randomCard.card);
+        $(".icon img").attr("src", randomCard.icons);
+
+      });
+
+    </script>
 
   </body>
 </html>
