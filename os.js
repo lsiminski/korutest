@@ -12,7 +12,7 @@ $.each(data, function(data) {
 		  $("#oblique_icons").text(this.Image);
 		  $("body.random").css("background-image","url(" + this.image + ")");
 /* 	  } else { */
-	  });
+	  })
   });
 
   /*
