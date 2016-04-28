@@ -14,6 +14,6 @@ $.each(data, function(data) {
 
 });
 
-$('#oblique_prompt').click(function() {
+$('#oblique_prompt p').click(function() {
   document.location.reload(true);
 });
