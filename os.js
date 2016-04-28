@@ -1,5 +1,5 @@
 
-$.getJSON('oblique.json', function(data) { 
+$.getJSON('koru.json', function(data) { 
     
   var randomCard = data[Math.floor(Math.random()*data.length)];
   console.log(randomCard);
@@ -9,7 +9,7 @@ $.each(data, function(data) {
 		  $("#oblique_category p").text(this.category);
 		  $("#oblique_prompt p").text(this.prompt);
 		  $("#oblique_icons p").html("<img src='" + this.url + "'>");
-		  $("#oblique_action p").text(this.action);
+		  $("#oblique_certoaction p").text(this.certoaction);
 		  $("#oblique_othericons p").html("<img src='" + this.url + "'>");
 		  $("body.random").css("background-color");
   });

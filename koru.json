@@ -6,7 +6,7 @@
             "card": "Do you squeeze the end or middle of the toothpaste tube to get it out?",
             "category": "Anima",
             "icons": "img/icons1.png",
-            "action": "Write your least favorite word on the back of your hand with a permanent marker.",
+            "certoaction": "Write your least favorite word on the back of your hand with a permanent marker.",
             "othericons": "img/icons3.png"
         },
         {
@@ -15,7 +15,7 @@
             "card": "Where is the furthest place you’ve traveled?",
             "category": "Anima",
             "icons": "img/icons1.png",
-            "action": "Write your middle name on a sticky note with a permanent marker and stick it to your forehead for the rest of the game.",
+            "certoaction": "Write your middle name on a sticky note with a permanent marker and stick it to your forehead for the rest of the game.",
             "othericons": "img/icons3.png"
         },
         {
@@ -24,7 +24,7 @@
             "card": "When do you feel the most at peace?",
             "category": "Sensum",
             "icons": "img/icons1.png",
-            "action": "Quick! Do 2 laps around the room and sit back down like you’re being chased in Duck Duck Goose.",
+            "certocertoaction": "Quick! Do 2 laps around the room and sit back down like you’re being chased in Duck Duck Goose.",
             "othericons": "img/icons3.png"
         },
         {
@@ -33,7 +33,7 @@
             "card": "What about today has been better than yesterday?",
             "category": "Sensum",
             "icons": "img/icons1.png",
-            "action": "Stand on one leg until your next turn.",
+            "certoaction": "Stand on one leg until your next turn.",
             "othericons": "img/icons3.png"
         },
         {
@@ -42,7 +42,7 @@
             "card": "Do you prefer to have a listening ear or sound advice?",
             "category": "Empathia",
             "icons": "img/icons1.png",
-            "action": "Wear your shirt either inside out or backwards for the rest of the game.",
+            "certoaction": "Wear your shirt either inside out or backwards for the rest of the game.",
             "othericons": "img/icons3.png"
         },
         {
@@ -51,7 +51,7 @@
             "card": "What’s one thing people misconceive about you?",
             "category": "Empathia",
             "icons": "img/icons1.png",
-            "action": "Lay on the floor and make snow angels until your next turn.",
+            "certoaction": "Lay on the floor and make snow angels until your next turn.",
             "othericons": "img/icons3.png"
         },
         {
@@ -60,7 +60,7 @@
             "card": "Do you think the player to your left eats more or starves under stress?",
             "category": "Nexus",
             "icons": "img/icons1.png",
-            "action": "Stand in the corner of the room facing the wall until your next turn.",
+            "certoaction": "Stand in the corner of the room facing the wall until your next turn.",
             "othericons": "img/icons3.png"
         },
         {
@@ -69,7 +69,7 @@
             "card": "Everyone answer! How many hours of sleep do you get on average?",
             "category": "Nexus",
             "icons": "img/icons1.png",
-            "action": "Say the ABC’s backwards.",
+            "certoaction": "Say the ABC’s backwards.",
             "othericons": "img/icons3.png"
         },
         {
@@ -78,7 +78,7 @@
             "card": "You’ve cried in public.",
             "category": "Certo",
             "icons": "img/icons2.png",
-            "action": "Whisper something romantic to no one in particular.",
+            "certoaction": "Whisper something romantic to no one in particular.",
             "othericons": "img/icons3.png"
         },
         {
@@ -87,7 +87,7 @@
             "card": "Someone has told you to stop saying sorry and you’ve apologized.",
             "category": "Certo",
             "icons": "img/icons2.png",
-            "action": "Pick any word. Yell it loudly.",
+            "certoaction": "Pick any word. Yell it loudly.",
             "othericons": "img/icons3.png"
         }
     ]
