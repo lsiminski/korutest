@@ -10,8 +10,6 @@ $.each(data, function(data) {
 		  $("#oblique_icons p").text(this.img);
 		  $("#oblique_category p").text(this.category);
 		  $("body.random").css("background-image","url(" + this.image + ")");
-	  } else {
-	  }
   });
     
 });
