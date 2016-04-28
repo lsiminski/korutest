@@ -4,34 +4,6 @@
             "number": "1",
             "background": "#FFCD2F",
             "card": "Do you squeeze the end or middle of the toothpaste tube to get it out?",
-            "category": "Skidly",
-            "icons": "sample.jpg"
-        },
-        {
-            "number": "2",
-            "background": "red",
-            "card": "Do you fold your clothes right out of the dryer?",
-            "category": "Bop",
-            "icons": "sample2.jpg"
-        },
-        {
-            "number": "3",
-            "background": "#FFCD2F",
-            "card": "Do you split your oreos in half before eating them?",
-            "category": "Anima",
-            "icons": "sample3.gif"
-        },
-        {
-            "number": "4",
-            "background": "purple",
-            "card": "Where is the furthest place you’ve traveled?",
-            "category": "Anima",
-            "icons": "sample.jpg"
-        },
-        {
-            "number": "4",
-            "background": "purple",
-            "card": "Where is the furthest place you’ve traveled?",
             "category": "Anima",
             "icons": "img/icons1.png",
             "certoaction": "Write your least favorite word on the back of your hand with a permanent marker.",
@@ -43,25 +15,25 @@
             "card": "Where is the furthest place you’ve traveled?",
             "category": "Anima",
             "icons": "img/icons1.png",
-            "certoaction": "Write your middle name on a sticky note with a permanent marker and stick it to your forehead for the rest of the game.",
+            "certoaction": "Write your least favorite word on the back of your hand with a permanent marker.",
             "othericons": "img/icons3.png"
         },
         {
             "number": "3",
             "background": "#2FB4D2",
-            "card": "When do you feel the most at peace?",
+            "card": "Do you consider yourself a thinker or a feeler?",
             "category": "Sensum",
             "icons": "img/icons1.png",
-            "certocertoaction": "Quick! Do 2 laps around the room and sit back down like you’re being chased in Duck Duck Goose.",
+            "certoaction": "Write your least favorite word on the back of your hand with a permanent marker.",
             "othericons": "img/icons3.png"
         },
         {
             "number": "4",
             "background": "#2FB4D2",
-            "card": "What about today has been better than yesterday?",
+            "card": "Do you ever feel out of control?",
             "category": "Sensum",
             "icons": "img/icons1.png",
-            "certoaction": "Stand on one leg until your next turn.",
+            "certoaction": "Write your least favorite word on the back of your hand with a permanent marker.",
             "othericons": "img/icons3.png"
         },
         {
