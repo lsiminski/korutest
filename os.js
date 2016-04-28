@@ -3,7 +3,7 @@ $.getJSON('oblique.json', function(data) {
     
   var randomStrategy = data.promptcards[Math.floor(Math.random()*data.promptcards.length)];
   console.log(randomStrategy.prompt);
-  $("#oblique_promptcards p").text(randomStrategy.prompt);
+  /* $("#oblique_promptcards p").text(randomStrategy.prompt); */
 
 
 $.each(data, function(data) {
@@ -24,6 +24,6 @@ $.each(data.promptcards, function(data) {
     
 });
 
-$('#oblique_promptcards').click(function() {
+$('#oblique_prompt').click(function() {
   document.location.reload(true);
 });
