@@ -7,7 +7,7 @@ $.getJSON('oblique.json', function(data) {
 
 $.each(data, function(data) {
 		  $("#oblique_prompt p").text(this.prompt);
-		  $("#oblique_icons p").text(this.img);
+		  $("#oblique_icons p").image(this.icons);
 		  $("#oblique_category p").text(this.category);
 		  $("body.random").css("background-image","url(" + this.image + ")");
   });
