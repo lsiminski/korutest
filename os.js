@@ -21,7 +21,7 @@ $.each(data.promptcards, function(data) {
   });
 */
     
-/* }); */
+});
 
 $('#oblique_prompt').click(function() {
   document.location.reload(true);
