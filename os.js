@@ -7,7 +7,6 @@ $.getJSON('oblique.json', function(data) {
 
 
 $.each(data, function(data) {
-	  if ( this.date === moda ) {
 		  $("#oblique_prompt p").text(this.prompt);
 		  $("#oblique_category p").text(this.category);
 		  $("#oblique_icons p").text(this.Image);
