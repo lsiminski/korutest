@@ -6,10 +6,10 @@ $.getJSON('oblique.json', function(data) {
   /* $("#oblique_strategies p").text(randomStrategy.strategy); */
 
 $.each(data, function(data) {
+		  $("#oblique_category p").text(this.category);
 		  $("#oblique_prompt p").text(this.prompt);
 		  $("#oblique_icons p").image(this.icons);
-		  $("#oblique_category p").text(this.category);
-		  $("body.random").css("background-image","url(" + this.image + ")");
+		  /* $("body.random").css("background-image","url(" + this.image + ")"); */
   });
     
 });
