@@ -4,7 +4,6 @@
             "number": "1",
             "background": "#FFCD2F",
             "card": "Do you squeeze the end or middle of the toothpaste tube to get it out?",
-<<<<<<< HEAD
             "category": "Skidly",
             "icons": "sample.jpg"
         },
@@ -28,7 +27,11 @@
             "card": "Where is the furthest place you’ve traveled?",
             "category": "Anima",
             "icons": "sample.jpg"
-=======
+        },
+        {
+            "number": "4",
+            "background": "purple",
+            "card": "Where is the furthest place you’ve traveled?",
             "category": "Anima",
             "icons": "img/icons1.png",
             "certoaction": "Write your least favorite word on the back of your hand with a permanent marker.",
@@ -60,7 +63,6 @@
             "icons": "img/icons1.png",
             "certoaction": "Stand on one leg until your next turn.",
             "othericons": "img/icons3.png"
->>>>>>> 0703af3e2ce91150331462f771e70ae17d800fdd
         },
         {
             "number": "5",
