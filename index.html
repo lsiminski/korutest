@@ -37,7 +37,7 @@
         </div>
         
         <div class="certoaction">
-          <p>.....</p>
+          <p> </p>
         </div>
         
 		<div class="othericons">
@@ -65,7 +65,9 @@
         $("body").css("background-color", randomCard.background);
         $(".category p").text(randomCard.category);
         $(".prompt p").text(randomCard.card);
-        $(".icon img").attr("src", randomCard.icons);
+        $(".icons img").attr("src", randomCard.icons);
+        $(".certoaction p").text(randomCard.certoaction);
+        $(".othericons img").attr("src", randomCard.icons);
 
       });
 
