@@ -9,7 +9,7 @@ $.each(data, function(data) {
 		  $("#oblique_category p").text(this.category);
 		  $("#oblique_prompt p").text(this.prompt);
 		  $("#oblique_icons p").text(this.Image);
-		  $("body.random").css("background-image","url(" + this.image + ")");
+		  $("body.random").css("background-color");
   });
     
 });
